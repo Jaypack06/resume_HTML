@@ -1,0 +1,19 @@
+.header{
+    display: flex;
+    justify-content: center;
+
+}
+
+.subheadcont{
+    display: flex;
+    justify-content: center;
+}
+
+.subhead{
+    display: flex;
+    margin-right: 25px;
+}
+
+.body{
+    margin: 0;
+}
