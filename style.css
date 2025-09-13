@@ -16,6 +16,14 @@
     display: flex;
     margin-right: 25px;
 }
+.edhead{
+    margin: 5px
+}
+.edcont{
+    display: grid;
+    
+}
+
 
 .expcont{
     display: flex; 
@@ -24,7 +32,8 @@
 .exptxt{
     display: left;
 }
+
 .tiny{
-    margin-top: -20px;;
+    margin-top: -2px;;
     
 }
